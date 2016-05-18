@@ -1,7 +1,7 @@
 {
   "name": "grunt-highlight-prismjs",
   "description": "syntax highlight with prismjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/suweiwua/grunt-highlight-prismjs",
   "main": "Gruntfile.js",
   "author": {
